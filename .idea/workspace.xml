@@ -11,64 +11,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a70b247-11dc-4782-b6ef-389b7fb71066" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autoBean/SubTool0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autoBean/SubTool1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autoBean/ToolInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autoBean/UseToolConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autowaired/SubTool2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autowaired/SubTool2Param.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autowaired/SubTool2SetParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/config/Bean0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/config/ConfigClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/config/FirstBeans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/test/java/autoBean/UseToolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven-bean02/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven-bean02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven-bean02/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven-bean02/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven-web01/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven-web01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven-web01/src/main/java/TestWeb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven-web01/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven-web01/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven-web01/src/test/java/TestWebTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/HelloSubMaven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/aop/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/aop/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConfig/ConfigCLASS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConstruter/ResourClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConstruter/SubInterFace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConstruter/SubResourClass0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConstruter/SubResourClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConstruter/SubSubResourClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConstruter/SubSubResourClass1Param.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanSet/ResourClassBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanSet/SubInterFaceBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanSet/SubResourClass1Bean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanSet/SubSubResourClass1Bean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/service/Impl/TestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/service/TestInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/resources/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/test/java/HelloSubMavenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/test/java/beanConstruter/ResourClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submaven/src/test/java/service/Impl/TestServiceTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="5a70b247-11dc-4782-b6ef-389b7fb71066" name="Changes" comment="mavenproject" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +69,8 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "5e8ecba1bb90783359d0cdc54d3103ba"
+    "spring.configuration.checksum": "222c35da66609512fca2af85a3305bd6",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -393,7 +337,16 @@
       <workItem from="1659490025508" duration="15064000" />
       <workItem from="1659575987660" duration="748000" />
       <workItem from="1659939549315" duration="830000" />
+      <workItem from="1660269603152" duration="886000" />
     </task>
+    <task id="LOCAL-00001" summary="mavenproject">
+      <created>1660269714548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660269714549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,5 +362,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mavenproject" />
+    <option name="LAST_COMMIT_MESSAGE" value="mavenproject" />
   </component>
 </project>
