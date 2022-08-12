@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mavenweb:war exploded" />
+      <artifact name="submaven-web01:war exploded" />
+      <artifact name="submaven:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a70b247-11dc-4782-b6ef-389b7fb71066" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autoBean/SubTool0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autoBean/SubTool1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autoBean/ToolInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autoBean/UseToolConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autowaired/SubTool2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autowaired/SubTool2Param.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/autowaired/SubTool2SetParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/config/Bean0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/config/ConfigClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/java/config/FirstBeans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondAutoBean/src/test/java/autoBean/UseToolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven-bean02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven-bean02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven-bean02/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven-bean02/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven-web01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven-web01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven-web01/src/main/java/TestWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven-web01/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven-web01/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven-web01/src/test/java/TestWebTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/HelloSubMaven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/aop/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/aop/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConfig/ConfigCLASS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConstruter/ResourClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConstruter/SubInterFace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConstruter/SubResourClass0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConstruter/SubResourClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConstruter/SubSubResourClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanConstruter/SubSubResourClass1Param.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanSet/ResourClassBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanSet/SubInterFaceBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanSet/SubResourClass1Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/beanSet/SubSubResourClass1Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/service/Impl/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/java/service/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/test/java/HelloSubMavenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/test/java/beanConstruter/ResourClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submaven/src/test/java/service/Impl/TestServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/soft/Maven/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CYNaz5CrU532H0MsyWZ0ql1Pdz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/Blog/VBlog-master/blogserver",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "5e8ecba1bb90783359d0cdc54d3103ba"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MySpringCload\mavenweb\submaven\src\main\java\beanSet" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MySpringCload\mavenweb" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="autoBean" />
+      <recent name="bean" />
+      <recent name="" />
+      <recent name="service.Impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="autowaired" />
+      <recent name="config" />
+      <recent name="autoBean" />
+      <recent name="beanSet" />
+      <recent name="beanConstruter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UseToolTest.subTool">
+    <configuration name="HelloSubMavenTest.tastAnnotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submaven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HelloSubMavenTest" />
+      <option name="METHOD_NAME" value="tastAnnotation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloSubMavenTest.testBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="submaven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HelloSubMavenTest" />
+      <option name="METHOD_NAME" value="testBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBeanTest.subTool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="secondAutoBean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="autoBean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="autoBean" />
+      <option name="MAIN_CLASS_NAME" value="autoBean.TestBeanTest" />
+      <option name="METHOD_NAME" value="subTool" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseToolTest.subTool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="secondAutoBean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="autoBean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="autoBean" />
+      <option name="MAIN_CLASS_NAME" value="autoBean.UseToolTest" />
+      <option name="METHOD_NAME" value="subTool" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testTest.subTool0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="secondAutoBean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="autoBean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="autoBean" />
+      <option name="MAIN_CLASS_NAME" value="autoBean.testTest" />
+      <option name="METHOD_NAME" value="subTool0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.65" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="D:\soft\Java\jdk1.8.0_333\jre">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="mavenweb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/web_test" />
+          </settings>
+        </artifact>
+        <artifact name="submaven-web01:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/submaven_web01_war_exploded" />
+          </settings>
+        </artifact>
+        <artifact name="submaven:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/submaven_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="784b5a3f-9055-45ef-8ae6-37a53dafbf15" />
+        <option name="HTTP_PORT" value="8082" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52153" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="52154" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mavenweb:war exploded" />
+          <artifact name="submaven-web01:war exploded" />
+          <artifact name="submaven:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestBeanTest.subTool" />
+      <item itemvalue="JUnit.UseToolTest.subTool" />
+      <item itemvalue="JUnit.testTest.subTool0" />
+      <item itemvalue="JUnit.HelloSubMavenTest.tastAnnotation" />
+      <item itemvalue="JUnit.HelloSubMavenTest.testBean" />
+      <item itemvalue="Tomcat Server.Tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UseToolTest.subTool" />
+        <item itemvalue="JUnit.TestBeanTest.subTool" />
+        <item itemvalue="JUnit.testTest.subTool0" />
+        <item itemvalue="JUnit.HelloSubMavenTest.tastAnnotation" />
+        <item itemvalue="JUnit.HelloSubMavenTest.testBean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a70b247-11dc-4782-b6ef-389b7fb71066" name="Changes" comment="" />
+      <created>1658975628858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658975628858</updated>
+      <workItem from="1658975630724" duration="18034000" />
+      <workItem from="1659057162518" duration="195000" />
+      <workItem from="1659403519202" duration="13017000" />
+      <workItem from="1659490025508" duration="15064000" />
+      <workItem from="1659575987660" duration="748000" />
+      <workItem from="1659939549315" duration="830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
